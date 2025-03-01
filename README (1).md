@@ -137,8 +137,8 @@ pymysql
 
 ## Author
 
- Developed by [Sivasankari G].
-  📧 Contact: [gcms1994@gmail.com]
+ Developed by [Saranraj Ramamoorthi].
+  📧 Contact: [saran13072001@gmail.com]
 
 ---
 
@@ -150,4 +150,3 @@ torch
 transformers
 pymysql
 
-public url : https://49f93f694d0bcb5e2d.gradio.live 
